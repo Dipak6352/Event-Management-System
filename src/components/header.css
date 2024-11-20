@@ -1,0 +1,136 @@
+.dd{
+   background-image: url('C:\Users\DIPAK\OneDrive\Desktop\myproject\my-react-app\public\hbg.svg'); 
+   max-height:auto;
+}
+.ha-5{
+    background-image: url("C:\Users\DIPAK\OneDrive\Desktop\myproject\my-react-app\public\images\peakpx.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+    
+    
+}
+.ha-1{
+    background-image: url("C:\Users\DIPAK\OneDrive\Desktop\myproject\my-react-app\public\habg.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 50vh;
+    
+}
+.ha-2{
+    background-image: url('C:\Users\DIPAK\OneDrive\Desktop\myproject\my-react-app\public\hbg.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* min-height:; */
+}
+.ha-3{
+    background-image: url('C:\Users\DIPAK\OneDrive\Desktop\myproject\my-react-app\public\images\event.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height:100%;
+}
+.ha-4{
+    background-image: url(C:\Users\DIPAK\OneDrive\Desktop\myproject\my-react-app\public\images\harmony.png);
+    background-repeat: no-repeat;
+    /* background-size:80vhvh; */
+    /* max-height: 60vh; */
+    /* max-width: 50vh; */
+    
+}
+ .location-title h3:after {
+    content: "";
+    width: 60px;
+    height: 3px;
+    background:yellow;
+    display: inline-block;
+}
+
+.ppp{
+    margin:2px;
+    /* max-width: 100px; */
+    border-radius: 8px;
+}
+.jj{
+    font-size: 0.6rem;
+}
+
+.text{
+    background: linear-gradient(85deg,rgb(244, 149, 149) ,rgb(123, 123, 240) 50%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    
+}
+.ss{
+    font-size: 0.7rem;
+}
+.ha-6{
+    background-image: url('C:\Users\DIPAK\OneDrive\Desktop\myproject\my-react-app\public\images\maxs.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height:min-content;
+}
+.ha-7{
+    background-image: url('C:\Users\DIPAK\OneDrive\Desktop\myproject\my-react-app\public\images\msection.webp');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.font{
+    font-size: 0.7rem;
+    background: linear-gradient(85deg,rgb(244, 149, 149) ,rgb(123, 123, 240) 50%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+}
+.fontt{
+    background: linear-gradient(85deg,rgb(244, 149, 149) ,rgb(123, 123, 240) 65%); 
+}
+ .lll{
+    display: none;
+   
+    transition:all 5s ease ;
+    
+}
+ .lt:hover  +.lll{
+    display: block;
+ }
+ .deco{
+    width:25%; 
+    height: 5%;
+    position:absolute;
+    top: 0px;
+    left:10px;
+    right:80%;
+    background: linear-gradient(85deg,rgb(244, 149, 149) ,rgb(123, 123, 240) 65%); 
+    
+    
+ }
+ .textt{
+    font-size:0.8rem;
+ }
+ .ha-9{
+    background-image:url('C:\Users\DIPAK\OneDrive\Desktop\myproject\my-react-app\public\images\images\special-offer-bg.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+ }
+ .ha-11{
+    background-image: url('C:\Users\DIPAK\OneDrive\Desktop\myproject\my-react-app\public\images\images\iamge.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+ }
+ .ha-12{
+    background-image: url('C:\Users\DIPAK\OneDrive\Desktop\myproject\my-react-app\public\images\images\iamge2.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+ }
+ html{
+  margin: 0px;
+  padding: 0px ;
+ }
+ 
